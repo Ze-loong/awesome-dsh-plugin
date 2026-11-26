@@ -1,0 +1,7 @@
+url: https://github.com/Ze-loong/dsh-quick-toggle
+name: Ze-loong/dsh-quick-toggle
+category: ui
+description:
+  en: Toggle installed third-party plugins from the composer with a /toggle picker or a toolbar button, with pins, confirm-before-disable and disable-all with one-click restore.
+  zh: 在输入框用 /toggle 弹出列表或工具栏按钮开关已安装的第三方插件，支持常用置顶、关闭前确认、批量关闭与一键恢复。
+icon: https://raw.githubusercontent.com/Ze-loong/dsh-quick-toggle/main/assets/icon-180.png
